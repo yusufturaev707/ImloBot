@@ -1,5 +1,9 @@
-__pycache__/
-env/
-venv/
-api.py
 .idea/
+venv/
+pipenv/
+
+__pycache__/
+*/__pycache__/
+.pyc
+*.pyc
+api.py
