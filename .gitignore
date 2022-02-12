@@ -1,9 +1,5 @@
+.DS_Store
 .idea/
-venv/
-pipenv/
-
 __pycache__/
-*/__pycache__/
-.pyc
-*.pyc
+venv/
 api.py
